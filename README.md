@@ -14,7 +14,7 @@
 ## Requirements and Installations
 
 - Clone the repository in your local system:
-    - `git clone` [https://github.com/parmeshwar4321/]()
+    - `git clone` [https://github.com/parmeshwar4321]
 
 - Install all requirements ( packages listed in package.json file in the repository ):
     - `npm install`
