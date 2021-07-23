@@ -1,9 +1,9 @@
 # eventCreator
 
 
-# Project Description
+## Project Description
 
-    * in This project 
+    in This project 
     user can manage his account.
     he can create Events ,update and delete as well
     user can see his post 
@@ -11,7 +11,7 @@
     
 
 
-# Requirements and Installations
+## Requirements and Installations
 
 - Clone the repository in your local system:
     - `git clone` [https://github.com/parmeshwar4321/eventCreator]()
@@ -38,5 +38,5 @@
 - - mongoose
 - - nodemon
 
-Thanks:)
-& happy coding.
+
+Happy coding.
